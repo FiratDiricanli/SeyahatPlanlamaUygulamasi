@@ -1,32 +1,27 @@
-🌍 Seyahat Planlama Uygulaması
-Bu proje, kullanıcıların kişisel seyahat rotalarını oluşturmalarına, bütçelerini yönetmelerine ve gezi detaylarını organize etmelerine olanak tanıyan kapsamlı bir yönetim sistemidir. Kullanıcı dostu bir yaklaşımla tasarlanan uygulama, karmaşık planlama süreçlerini tek bir merkezden kontrol etmeyi sağlar.
+# 🌍 Seyahat Planlama Uygulaması
 
-🗺️ Proje Vizyonu
-Seyahat tutkunları için dijital bir asistan görevi gören bu yazılım, veri tutarlılığını sağlamak ve modüler bir yapı sunmak amacıyla Nesne Tabanlı Programlama (OOP) mimarisi üzerine inşa edilmiştir.
+Gidilecek yerlerin listelendiği ve tahmini harcamaların not alındığı basit bir **C# Windows Forms** ajanda yazılımıdır.
 
-🚀 Öne Çıkan Özellikler
-Dinamik Rota Yönetimi: Gezi duraklarının eklenmesi, düzenlenmesi ve öncelik sırasına göre listelenmesi.
+---
 
-Gelişmiş Bütçe Takibi: Konaklama, ulaşım ve yemek gibi harcama kalemlerinin kategorize edilerek toplam maliyetin anlık hesaplanması.
+## 🚀 Özellikler
 
-Zaman Çizelgesi Planlama: Seyahat tarihlerine göre günlük aktivite planlarının oluşturulması ve takibi.
+*   🗺️ **Rota Listesi:** Gezi duraklarının sırayla eklenmesi.
+*   💰 **Harcama Notları:** Ulaşım, konaklama ve yemek için ayrılan bütçenin yazılması.
+*   🕒 **Tarih Planı:** Hangi gün nereye gidileceğinin takvim üzerinden not alınması.
+*   📑 **Not Defteri:** Seyahatle ilgili önemli hatırlatıcıların kaydedilmesi.
 
-Konaklama ve Ulaşım Rehberi: Otel ve bilet bilgilerinin not alınarak hızlı erişim sağlanması.
+---
 
-Veri Yönetimi: Tüm seyahat planlarının sistem içerisinde güvenli ve düzenli bir şekilde saklanması.
+## 🛠️ Kullanılan Teknolojiler
 
-🛠️ Teknik Altyapı
-Programlama Dili: Python
+*   **C# (Windows Forms)**
+*   **.NET Framework**
 
-Mimari Yapı: Nesne Tabanlı Programlama (OOP)
+---
 
-Veri Yapıları: Dinamik liste yönetimi ve nesne ilişkileri.
+## ⚙️ Kurulum ve Çalıştırma
 
-🔧 Kurulum ve Kullanım
-Projeyi yerel makinenize klonlayın veya indirin.
-
-Gerekli Python ortamının kurulu olduğundan emin olun.
-
-Ana modülü çalıştırarak seyahat planlama arayüzüne giriş yapın.
-
-Yeni bir seyahat oluşturarak rota ve bütçe bilgilerini girmeye başlayın.
+1.  Visual Studio üzerinden seyahat projesini açın.
+2.  Hatasız derlendiğinden emin olup projeyi başlatın.
+3.  Örnek bir rota ve bütçe girişi yaparak sistemi kontrol edin.
